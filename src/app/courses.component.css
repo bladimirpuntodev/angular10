@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+}
+
+.btn {
+  border-radius: 5px;
+}
+.btn-primary {
+  background-color: blue;
+}
